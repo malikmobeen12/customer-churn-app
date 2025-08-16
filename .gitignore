@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environment
+churn_env/
+venv/
+
+# Environment variables
+.env
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+data/
